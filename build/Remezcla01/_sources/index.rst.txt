@@ -84,7 +84,7 @@ Ejercicio 2
     =====
     snare = YG_ALT_POP_SNARE_5 #tag:1; depends:;
     =====
-    kickPattern = "0<span>-</span><span>-</span><span>-</span>0<span>-</span><span>-</span><span>-</span>0<span>-</span><span>-</span><span>-</span>0<span>-</span><span>-</span><span>-</span> #tag:2; depends:;
+    kickPattern = "0<span>-</span><span>-</span><span>-</span>0<span>-</span><span>-</span><span>-</span>0<span>-</span><span>-</span><span>-</span>0<span>-</span><span>-</span><span>-</span>" #tag:2; depends:;
     =====
     snarePattern = "<span>-</span><span>-</span>00<span>-</span><span>-</span>00<span>-</span><span>-</span>00<span>-</span><span>-</span>00" #tag:3; depends:;
     =====
